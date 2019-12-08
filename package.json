@@ -1,6 +1,6 @@
 {
   "name": "flush-microtasks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flush the microtask queue",
   "repository": "aleclarson/flush-microtasks",
   "license": "MIT",
