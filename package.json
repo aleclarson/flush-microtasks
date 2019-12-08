@@ -1,0 +1,22 @@
+{
+  "name": "flush-microtasks",
+  "version": "1.0.0",
+  "description": "Flush the microtask queue",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc -p .",
+    "prepare": "yarn build"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  },
+  "keywords": [
+    "promise",
+    "flush",
+    "microtask"
+  ]
+}
